@@ -1,7 +1,7 @@
 - Chạy code SQL trong database.txt trên XAMPP, đặt tên DB là btlweb
 - Chạy project trên Netbean
 - Cài Tomcat 8.5
-- Bật DAO.java trong file dao rồi sửa username + password
+- Bật DAO.java trong file dao rồi sửa cổng kết nối DB + username + password
 - RUN
 
 MÔ TẢ DỰ ÁN:
